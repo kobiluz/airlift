@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>airlift</artifactId>
-    <version>320-SNAPSHOT</version>
+    <version>340-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>airlift</name>
@@ -91,7 +91,7 @@
         <project.build.targetJdk>22</project.build.targetJdk>
         <air.modernizer.java-version>8</air.modernizer.java-version>
 
-        <dep.airlift.version>320-SNAPSHOT</dep.airlift.version>
+        <dep.airlift.version>340-SNAPSHOT</dep.airlift.version>
         <dep.bouncycastle.version>1.80</dep.bouncycastle.version>
         <dep.modernizer.version>2.7.0</dep.modernizer.version>
         <dep.jersey.version>3.1.10</dep.jersey.version>
